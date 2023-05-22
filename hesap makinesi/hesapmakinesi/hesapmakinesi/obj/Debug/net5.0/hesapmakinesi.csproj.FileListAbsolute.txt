@@ -1,0 +1,16 @@
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.exe
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.deps.json
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.runtimeconfig.json
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.runtimeconfig.dev.json
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.dll
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\net5.0\hesapmakinesi.pdb
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.AssemblyInfoInputs.cache
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.AssemblyInfo.cs
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.dll
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\refint\hesapmakinesi.dll
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.pdb
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\hesapmakinesi.genruntimeconfig.cache
+C:\Users\ESRA\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\net5.0\ref\hesapmakinesi.dll
